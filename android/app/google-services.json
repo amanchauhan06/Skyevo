@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "721440997837",
+    "project_id": "skyevo-f9632",
+    "storage_bucket": "skyevo-f9632.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721440997837:android:176a04b95caa8857d04484",
+        "android_client_info": {
+          "package_name": "com.app.skyevo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721440997837-9a7u4gd4iet8rhi8jdl27jvkdteqt7fn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYlFgoyGAYUhoys0tytvQsyeB1PD55lYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721440997837-9a7u4gd4iet8rhi8jdl27jvkdteqt7fn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
